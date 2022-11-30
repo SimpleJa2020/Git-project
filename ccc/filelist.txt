@@ -1,0 +1,12 @@
+total 32
+drwxr-xr-x  11 apple  staff   352 Nov 30 12:34 .
+drwx------@ 27 apple  staff   864 Nov 29 22:38 ..
+-rw-r--r--@  1 apple  staff  8196 Nov 29 22:39 .DS_Store
+drwxr-xr-x   4 apple  staff   128 Nov 25 12:38 CSS container
+drwxr-xr-x   6 apple  staff   192 Nov 25 16:32 CSS fullsize
+drwxr-xr-x   6 apple  staff   192 Nov 25 14:24 HTML HW1
+drwxr-xr-x   2 apple  staff    64 Nov 30 11:54 aaa
+-rw-r--r--   1 apple  staff     0 Nov 30 11:59 index.html
+-rw-r--r--   1 apple  staff     0 Nov 30 12:34 list.txt
+drwxr-xr-x   4 apple  staff   128 Nov 29 22:38 pic
+-rw-r--r--   1 apple  staff    25 Nov 30 12:17 test-file.txt
